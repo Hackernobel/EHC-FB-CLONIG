@@ -10,8 +10,13 @@ WORK VT 32+64
 Command👇
 ===================
 git clone https://github.com/Hackernobel/EHC-FB-CLONIG.git
+
 cd
+
 ls 
+
 cd EHC-FB-CLONIG
+
 Ls  
+
 Python EHC923.py
